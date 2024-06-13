@@ -14,3 +14,6 @@ learning models, particularly ResNet, can significantly
 enhance the accuracy of food image classification, offering
 valuable insights for future research and practical
 applications in the field.
+
+
+![Food Image Snip](https://github.com/Chivans31/Image-Classification-using-Deep-Learning/assets/109700556/d08ccfea-652f-4cf2-a1b3-47e2945141b4)
